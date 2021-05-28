@@ -1,2 +1,2 @@
 # O365-eMail-Analytics
-Get analytics on email campaigns in your company or just statistics of who read those emails :) ! 
+PowerShell analytics on email campaigns in your o365 tenat company or just statistics of who read those emails :) ! 
